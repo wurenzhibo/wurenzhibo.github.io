@@ -2,5 +2,3 @@ User-agent: *
 Allow: /
 
 Disallow: /api/*
-
-Sitemap: https://wurenzhibo.top/sitemap-0.xml
